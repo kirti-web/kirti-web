@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @kirti
-- 👀 I’m interested in Web Development Technologies
+- 👀 I’m interested in Full Stack Development Technologies
 - 🌱 I’m working as Full stack developer
 - 💞️ I’m using  Following technologies 
 -     Mongo Express React Node
+-     Typescript React Redux GraphQL
 -     PHP Laravel
--     Mysql
+-     Mysql. Postgres
 -     AWS , Firebase
 -     Github,GitLab
 -     Jira,Trello,Asana
